@@ -34,3 +34,6 @@ p{
 .texto{
     justify-content: left;
 }
+.inicio{
+    text-align: right;
+}
