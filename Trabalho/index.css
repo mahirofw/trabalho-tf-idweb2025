@@ -1,0 +1,51 @@
+h1{
+    margin: 0;
+    font-size: 48px;
+}
+h4{
+    font-size: 16px;
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+h5{
+    font-size: 13px;
+    color: grey;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+
+header{
+    background-color: black;
+    padding: 10px;
+}
+
+.container-header{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+ul{
+    list-style: none;
+}
+  
+aside {
+    width: 250px;
+    padding: 20px;
+  }
+
+footer{
+    padding: 20px;
+    text-align: center;
+}
+.botao{
+    background-color: transparent;
+    border:none;
+}
+nav {
+    align-self: flex-end;
+  }
+  
